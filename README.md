@@ -7,7 +7,7 @@ Una habilidad metodológica para el reconocimiento y la extracción de sitios we
 Instalar la skill desde GitHub:
 
 ```bash
-npx skills add rrortega/web-scraper-skill
+npx skills add rrortega/web-scraper-skill --skill web-scraping
 ```
 
 Usar `npx skills add --help` para seleccionar un agente, una instalación global u otras opciones de la CLI.
