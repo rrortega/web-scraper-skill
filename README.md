@@ -2,6 +2,16 @@
 
 Una habilidad metodológica para el reconocimiento y la extracción de sitios web basados en evidencia, con `fetch` nativo, Playwright y el entorno de navegador sin interfaz Obscura.
 
+## Instalación
+
+Instalar la skill desde GitHub:
+
+```bash
+npx skills add rrortega/web-scraper-skill
+```
+
+Usar `npx skills add --help` para seleccionar un agente, una instalación global u otras opciones de la CLI.
+
 ## Método
 
 1. Definir los puntos de datos requeridos y el umbral de cobertura.
